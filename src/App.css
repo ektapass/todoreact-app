@@ -1,5 +1,11 @@
+body{
+  background-color: antiquewhite;
+}
 .App {
   text-align: center;
+}
+li {
+  list-style-type: none;
 }
 
 .App-logo {
