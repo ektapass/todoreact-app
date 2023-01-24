@@ -1,7 +1,7 @@
 // 
 //All of our endpoints
 import axios from 'axios'
-const baseURL=https://ektas-todo-server.onrender.com
+const baseURL='https://ektas-todo-server.onrender.com'
 //const baseURL='http://localhost:3001/todos'
 //show all
 export const getTodos=()=>{
